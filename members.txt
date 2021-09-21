@@ -2,3 +2,6 @@ github namn: gogooglegitit
 namn: axel olsson
 epost: axel.olsson312@gmail.com 
 
+github: antmel27
+namn: anthony melinder
+epost: antmasta27@gmail.com
